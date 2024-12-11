@@ -1,4 +1,4 @@
-The work in this project was done as part of the MNLP course at EPFL by: Stefan Krsteski, Mikhail Terekhov, Said Gürbüz, Matea Tashkovska 
+<img width="80%" alt="final-model" src="https://github.com/user-attachments/assets/62d74f72-1bd6-4f94-b037-fccf6e9897a7">
 
 ## Project Description 
 
